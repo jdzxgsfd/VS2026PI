@@ -1,0 +1,6 @@
+name:
+vs_Professional.exe
+link:
+https://aka.ms/vs/18/insiders/vs_Professional.exe
+zipBaseName:
+VS2026Professional.Insiders.
